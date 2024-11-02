@@ -26,4 +26,5 @@ Por lá você consegue ver algumas rotas diferentes. A que vamos usar na nossa a
 3. Imprimir o corpo da resposta através de um print.
 
 https://7daysofcode.io/
+
 **#7DaysOfCode**
