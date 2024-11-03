@@ -25,6 +25,12 @@ Por lá você consegue ver algumas rotas diferentes. A que vamos usar na nossa a
 2. Executar a requisição e pegar a resposta (o JSON).
 3. Imprimir o corpo da resposta através de um print.
 
+## Day 2 - 03/11/2024
+
+1. Instalar a biblioteca "googletrans" - **Necessário utilizar a versão 3.1.0a0**;
+2. Realizar a tradução dos atributos "name" e "affiliation" da API;
+3. Prinar na tela a informação traduzida.
+
 https://7daysofcode.io/
 
 **#7DaysOfCode**
